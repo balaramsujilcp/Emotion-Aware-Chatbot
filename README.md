@@ -9,3 +9,6 @@ Here, the pipeline function initializes an emotion detection model. The specific
 
 ### model information
 This model is based on DistilRoBERTa, a smaller and faster version of the RoBERTa model (Robustly Optimized BERT Pretraining Approach). DistilRoBERTa is a transformer-based model that uses self-attention mechanisms to analyze relationships between words in a sentence, which allows it to capture complex language patterns and nuances that are associated with different emotions.
+
+Output:
+![output](https://github.com/user-attachments/assets/27d8d844-be84-4ee0-8ead-114aab3eceea)
